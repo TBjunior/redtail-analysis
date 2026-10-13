@@ -1,6 +1,6 @@
 # RedTail across five vectors: one campaign observed on a T-Pot honeypot (September 2026)
 
-Thaddäus Bischoff · Dual-study student (B.Eng. Information Technology), DHSN Dresden
+Thaddäus Bischoff · Dual-study student (B.Eng. Information Technology)
 
 A single T-Pot honeypot recorded one continuous RedTail campaign between 2026-09-16 and 2026-09-28 on five vectors: SSH, Telnet, HTTP, HTTPS and the Docker API. This repository contains the full report and the indicators.
 
