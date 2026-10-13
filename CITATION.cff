@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this report or the indicators, please cite them as below."
+type: dataset
+title: "RedTail Across Five Vectors: One Campaign Observed on a T-Pot Honeypot, September 2026"
+authors:
+  - family-names: Bischoff
+    given-names: Thaddäus
+version: v1.0.0
+date-released: 2026-10-13
+license: CC-BY-4.0
+abstract: "A single T-Pot honeypot recorded one continuous RedTail campaign between 2026-09-16 and 2026-09-28 on five vectors: SSH, Telnet, HTTP, HTTPS and the Docker API. The report documents the evidence for one operation, the Telnet infection path, the detection gap under the ET Open ruleset, and recommendations for defenders."
+keywords:
+  - RedTail
+  - honeypot
+  - T-Pot
+  - cryptominer
+  - threat intelligence
+  - indicators of compromise
+repository-code: "https://github.com/TBjunior/redtail-analysis"
